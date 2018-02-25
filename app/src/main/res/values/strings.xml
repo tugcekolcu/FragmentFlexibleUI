@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">FragmentBasitModulerYapi</string>
+    <string-array name="Basliklar">
+        <item>Başlık 1</item>
+        <item>Başlık 2</item>
+        <item>Başlık 3</item>
+    </string-array>
+    <string-array name="Aciklamalar">
+        <item>Aciklama 1</item>
+        <item>Aciklama 2</item>
+        <item>Aciklama 3</item>
+    </string-array>
+</resources>
